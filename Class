@@ -1,0 +1,38 @@
+#include <iostream>
+
+using namespace std;
+
+class Human
+{
+public:
+	int age;
+	string name;
+	string lname;
+	void Hinput(int ag, string n, string ln)
+	{
+		age = ag;
+		name = n;
+		lname = ln;
+	}
+
+	void Houtput()
+	{
+		cout << "Lastname: " << lname << "\nName: " << name << "\nAge: " << age << endl;
+	}
+private:
+
+};
+
+
+
+int main()
+{
+	Human first;
+	Human second;
+	first.Hinput(18, "Ivan", "Bykov");
+	first.Houtput();
+	second.age = 1000;
+	second.name = "Alexander";
+	second.lname = "Volkov";
+	second.Houtput();
+}

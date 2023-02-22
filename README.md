@@ -6,6 +6,6 @@
 - [x] Program with classes. [Prog](https://github.com/Aiven-gwt/nodl-lectures/blob/main/Class)
 - [x] Play around with. 
 
-![image](https://cdn.fishki.net/upload/post/2021/01/12/3548777/4-17.gif)
+!(https://cdn.fishki.net/upload/post/2021/01/12/3548777/4-17.gif)
 *Hochu banani*
 

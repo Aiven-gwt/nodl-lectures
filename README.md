@@ -1,2 +1,2 @@
 # nodl-lectures
-#0d1117 
+## Here you can see the results of the training on the _algorithmic_ course with ~~Danya Kozhaev~~ Nodl
